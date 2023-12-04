@@ -1,0 +1,19 @@
+h1 {
+    font-size: 5em;
+}
+
+#profile_pic {
+    width: 500px;
+}
+
+.social_icon {
+    width: 100px;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+div {
+    background-color: white;
+}
